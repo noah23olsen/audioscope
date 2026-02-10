@@ -39,3 +39,7 @@ q   quit
 ```
 
 Parameters: Mode, Style (Braille/Blocks), Gain, Color Theme
+
+## Revert Audio Changes
+
+To revert to your original audio device, select it from System Preferences → Sound → Output

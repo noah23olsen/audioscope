@@ -1,8 +1,17 @@
 # audioscope
 
-Terminal audio visualizer. Renders waveforms, spectrum, and oscilloscope in braille. Tested on macOS only.
+Terminal audio visualizer with 6 modes, 2 render styles, and 4 color themes. Tested on macOS only.
 
 ![screenshot](screenshot.png)
+
+## Modes
+
+- **Waveform** — amplitude over time
+- **Mirror** — symmetric center-line waveform
+- **Spectrum** — FFT frequency bars (log-scaled)
+- **Bands** — 16-bar graphic equalizer
+- **Spectrogram** — scrolling frequency waterfall
+- **Oscilloscope** — circular radial waveform
 
 ## Install
 
@@ -30,3 +39,5 @@ python viz.py
 ↑↓  adjust value
 q   quit
 ```
+
+Parameters: Mode, Style (Braille/Blocks), Gain, Color Theme

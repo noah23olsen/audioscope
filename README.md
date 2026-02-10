@@ -8,7 +8,11 @@ https://github.com/user-attachments/assets/088d7c8d-8f78-480f-8979-144486f40272
 ## Install
 
 ```bash
+git clone https://github.com/noah23olsen/audioscope.git
+cd audioscope
 brew install blackhole-2ch
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 

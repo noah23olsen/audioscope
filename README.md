@@ -1,6 +1,6 @@
-# audioscope
+# Audioscope
 
-Visualize audio inside your terminal.
+Audio visualizer inside your terminal
 
 
 https://github.com/user-attachments/assets/088d7c8d-8f78-480f-8979-144486f40272

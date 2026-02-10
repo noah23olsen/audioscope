@@ -1,6 +1,8 @@
 # audioscope
 
-Terminal audio visualizer. Renders waveforms, spectrum, and oscilloscope in braille.
+Terminal audio visualizer. Renders waveforms, spectrum, and oscilloscope in braille. Tested on macOS only.
+
+![screenshot](screenshot.png)
 
 ## Install
 

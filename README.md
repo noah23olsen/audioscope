@@ -2,7 +2,8 @@
 
 Visualize audio inside your terminal.
 
-![screenshot](screenshot.png)
+
+https://github.com/user-attachments/assets/088d7c8d-8f78-480f-8979-144486f40272
 
 ## Install
 
